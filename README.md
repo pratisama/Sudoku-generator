@@ -1,1 +1,1 @@
-# sudoku-gen
+# Sudoku generator
